@@ -1,0 +1,6 @@
+D:\desktop\G4RY\utfpr\Tecnologia em análise e Desenvolvimento de Sistemas\PetCare\Common\bin\Debug\Common.dll
+D:\desktop\G4RY\utfpr\Tecnologia em análise e Desenvolvimento de Sistemas\PetCare\Common\bin\Debug\Common.pdb
+D:\desktop\G4RY\utfpr\Tecnologia em análise e Desenvolvimento de Sistemas\PetCare\Common\obj\Debug\Common.csprojAssemblyReference.cache
+D:\desktop\G4RY\utfpr\Tecnologia em análise e Desenvolvimento de Sistemas\PetCare\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\desktop\G4RY\utfpr\Tecnologia em análise e Desenvolvimento de Sistemas\PetCare\Common\obj\Debug\Common.dll
+D:\desktop\G4RY\utfpr\Tecnologia em análise e Desenvolvimento de Sistemas\PetCare\Common\obj\Debug\Common.pdb

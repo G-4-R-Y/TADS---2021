@@ -1,0 +1,12 @@
+D:\desktop\G4RY\utfpr\Tecnologia em análise e Desenvolvimento de Sistemas\PetCare\Common\bin\Debug\net5.0\Common.deps.json
+D:\desktop\G4RY\utfpr\Tecnologia em análise e Desenvolvimento de Sistemas\PetCare\Common\bin\Debug\net5.0\Common.dll
+D:\desktop\G4RY\utfpr\Tecnologia em análise e Desenvolvimento de Sistemas\PetCare\Common\bin\Debug\net5.0\ref\Common.dll
+D:\desktop\G4RY\utfpr\Tecnologia em análise e Desenvolvimento de Sistemas\PetCare\Common\bin\Debug\net5.0\Common.pdb
+D:\desktop\G4RY\utfpr\Tecnologia em análise e Desenvolvimento de Sistemas\PetCare\Common\obj\Debug\net5.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\desktop\G4RY\utfpr\Tecnologia em análise e Desenvolvimento de Sistemas\PetCare\Common\obj\Debug\net5.0\Common.AssemblyInfoInputs.cache
+D:\desktop\G4RY\utfpr\Tecnologia em análise e Desenvolvimento de Sistemas\PetCare\Common\obj\Debug\net5.0\Common.AssemblyInfo.cs
+D:\desktop\G4RY\utfpr\Tecnologia em análise e Desenvolvimento de Sistemas\PetCare\Common\obj\Debug\net5.0\Common.csproj.CoreCompileInputs.cache
+D:\desktop\G4RY\utfpr\Tecnologia em análise e Desenvolvimento de Sistemas\PetCare\Common\obj\Debug\net5.0\Common.dll
+D:\desktop\G4RY\utfpr\Tecnologia em análise e Desenvolvimento de Sistemas\PetCare\Common\obj\Debug\net5.0\ref\Common.dll
+D:\desktop\G4RY\utfpr\Tecnologia em análise e Desenvolvimento de Sistemas\PetCare\Common\obj\Debug\net5.0\Common.pdb
+D:\desktop\G4RY\utfpr\Tecnologia em análise e Desenvolvimento de Sistemas\PetCare\Common\obj\Debug\net5.0\Common.csprojAssemblyReference.cache

@@ -1,0 +1,2 @@
+D:\desktop\G4RY\utfpr\Tecnologia em análise e Desenvolvimento de Sistemas\PetCare\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+D:\desktop\G4RY\utfpr\Tecnologia em análise e Desenvolvimento de Sistemas\PetCare\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
